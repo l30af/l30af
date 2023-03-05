@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi there 👋
+Welcome to my GitHub page. Thanks to visit my page.   
+I'm a University student Korea who intersted Discord Bot and Develop.
+
+# 📫 Contact
+- 📧 E-mail : dev.augustleo@gmail.com
+- 📟 Linked in : [@]()
+- 💬 Discord : 
+
 
 <!--
 **l30af/l30af** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
