@@ -1,11 +1,20 @@
 # Hi there 👋
 Welcome to my GitHub page. Thanks to visit my page.   
-I'm a University student Korea who intersted Discord Bot and Develop.
+I'm a University student,  Mokwon Universit
 
-# 📫 Contact
 - 📧 E-mail : l30a_f@outlook.com
 - 📟 Linked in : [@l30af](https://www.linkedin.com/in/l30af/)
 - 💬 Discord : l30a_f#9451
+
+## Lange
+- C# (Unity)
+- python
+
+## 🤔 Intrested in
+- Speed Cubing
+  - analyze Cubing Record
+- Develop Discord Bot
+
 
 <!--
 **l30af/l30af** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
