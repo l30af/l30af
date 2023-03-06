@@ -5,7 +5,7 @@ I'm a University student Korea who intersted Discord Bot and Develop.
 # 📫 Contact
 - 📧 E-mail : l30a_f@outlook.com
 - 📟 Linked in : [@l30af](https://www.linkedin.com/in/l30af/)
-- 💬 Discord : l30a_F#9451
+- 💬 Discord : l30a_f#9451
 
 <!--
 **l30af/l30af** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
