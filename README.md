@@ -3,6 +3,7 @@ Welcome to my GitHub page. Thanks to visit my page.
 I'm a University student,  Mokwon Universit
 
 - 📧 E-mail : l30a_f@outlook.com
+  - school E-Mail : l30af@mokwon.ac.kr
 - 📟 Linked in : [@l30af](https://www.linkedin.com/in/l30af/)
 - 💬 Discord : l30a_f#9451
 
