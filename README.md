@@ -7,13 +7,15 @@ I'm a University student,  Mokwon Universit
 - 💬 Discord : l30a_f#9451
 
 ## Lange
-- C# (Unity)
 - python
 
 ## 🤔 Intrested in
 - Speed Cubing
   - analyze Cubing Record
 - Develop Discord Bot
+- Play video games
+
+## 
 
 
 <!--
